@@ -1,7 +1,5 @@
 # https://platform.openai.com/docs/guides/function-calling?api-mode=responses
 
-# https://platform.openai.com/docs/guides/tools?api-mode=responses
-
 import json
 
 import requests
