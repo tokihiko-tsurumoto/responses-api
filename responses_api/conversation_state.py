@@ -18,4 +18,4 @@ second_response = client.responses.create(
 )
 print(second_response.output_text)
 
-# response.id and second_response.id will be same value
+# response.id and second_response.id will be same value.
