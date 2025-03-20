@@ -1,4 +1,4 @@
-# https://platform.openai.com/docs/api-reference/responses
+# https://platform.openai.com/docs/quickstart?api-mode=responses
 
 from openai import OpenAI
 
