@@ -1,0 +1,18 @@
+[project]
+name = "responses_api"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "tokihiko-tsurumoto",email = "tokihiko-tsurumoto@cybozu.co.jp"}
+]
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "dotenv (>=0.9.9,<0.10.0)",
+    "openai (>=1.67.0,<2.0.0)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
