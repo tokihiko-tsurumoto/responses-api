@@ -16,5 +16,3 @@ second_response = client.responses.create(
     input=[{"role": "user", "content": "なぜこれが面白いのか説明してください。"}],
 )
 print(second_response.output_text)
-
-# response.id and second_response.id will be same value.
